@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "pais": "España",
+        "continente": "Europa"
+        
+    },
+    {
+        "id": 3,
+        "pais": "China",
+        "continente": "Asia"
+        
+    },
+    {
+        "id": 4,
+        "pais": "Australia",
+        "continente": "Oceania"
+        
+    }
+]
